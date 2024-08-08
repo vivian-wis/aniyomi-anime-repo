@@ -2,7 +2,7 @@
 
 just paste this into your anime repo 
 ```
-https://raw.githubusercontent.com/almightyhak/aniyomi-anime-repo/main/index.min.json
+https://raw.githubusercontent.com/vivian-wis/aniyomi-anime-repo/main/index.min.json
 ```
 
 ## Support Server
